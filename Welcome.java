@@ -1,9 +1,8 @@
 
 public class Welcome{
-   public static void main(String args[]){
-   
-   System.out.println();
-   
+  
+   public int add(int a,int b){
+   return a+b;
    }
 
 }
