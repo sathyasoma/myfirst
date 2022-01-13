@@ -3,7 +3,7 @@
 
 public class Substraction{
 
-Welcome wel= new Welcome();
+Multi wel= new Multi();
 @Test
   public void test(){
        int i=wel.add(); 
