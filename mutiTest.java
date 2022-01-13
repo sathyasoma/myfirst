@@ -1,12 +1,12 @@
 
 
 
-public class Substraction{
+public class MultiTest{
 
-Multi wel= new Multi();
+Multi mult= new Multi();
 @Test
   public void test(){
-       int i=wel.mul(); 
+       int i=mult.mul(); 
   assertEquals(15,i);
   }
 }
