@@ -1,4 +1,4 @@
-public class multi{
+public class Multi{
   
    public int mul(int a,int b){
    return a*b;
